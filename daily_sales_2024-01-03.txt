@@ -1,0 +1,40 @@
+Order DateTime: 2024-01-03 11:30:15
+----------------------------------------------------------------
+Item: Macaroons	Quantity: 12	Price: 60.00
+Item: Cake	Quantity: 2	Price: 30.00
+Order Total Sales: 90.00
+Overall Total Sales for all orders: 90.00
+====================================
+Software by Rheeicxs
+Order DateTime: 2024-01-03 11:31:16
+----------------------------------------------------------------
+Item: Cake	Quantity: 21	Price: 315.00
+Item: Brownies	Quantity: 122	Price: 1220.00
+Order Total Sales: 1535.00
+Overall Total Sales for all orders: 1625.00
+====================================
+Software by Rheeicxs
+Order DateTime: 2024-01-03 11:31:47
+----------------------------------------------------------------
+Item: Biko	Quantity: 1	Price: 08.00
+Item: Palitaw	Quantity: 21	Price: 168.00
+Order Total Sales: 176.00
+Overall Total Sales for all orders: 1801.00
+====================================
+Software by Rheeicxs
+Order DateTime: 2024-01-03 11:32:16
+----------------------------------------------------------------
+Item: Maja Blanca	Quantity: 2	Price: 16.00
+Item: Palitaw	Quantity: 12	Price: 96.00
+Order Total Sales: 112.00
+Overall Total Sales for all orders: 1913.00
+====================================
+Software by Rheeicxs
+Order DateTime: 2024-01-03 11:34:22
+----------------------------------------------------------------
+Item: Maja Blanca	Quantity: 32	Price: 256.00
+Item: Cake	Quantity: 3	Price: 45.00
+Order Total Sales: 301.00
+Overall Total Sales for all orders: 2214.00
+====================================
+Software by Rheeicxs
